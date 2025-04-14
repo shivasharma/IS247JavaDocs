@@ -1,6 +1,6 @@
 
 /**
- * Created bty Shiva Sharma IS147 on 5/2/2022
+ * Created by Shiva Sharma IS147 on 5/2/2022
  * Person class for storing person information
  * Person call with fields,
  */
