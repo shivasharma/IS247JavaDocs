@@ -11,7 +11,7 @@ public class Person {
     private String name;
 
     /**
-     * This is a construction to initialize person object
+     * This is a constructor to initialize person object
      *
      * @param name inital person name
      */
